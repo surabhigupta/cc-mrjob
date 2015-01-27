@@ -1,0 +1,8 @@
+# Surabhi Gupta
+
+Ans 3)  It took approx. 2m9.154s to run the tag counter script locally
+	It took 11m43.286s to run the tag counter script on AWS EMR
+
+Ans 4) There are 2048 address tags in the input
+
+Ans 5) The local version and the EMR version (part-00002) give the same answer.
